@@ -9,7 +9,7 @@ document.addEventListener('DOMContentLoaded', function() {
     const statusMessage = document.getElementById('statusMessage');
 
     // Backend API URL - Update this when deploying
-    const API_BASE_URL = 'https://e5h6i7cn31x8.manus.space';
+    const API_BASE_URL = 'https://3000-iexxccwi1spcasv3ewcp4-3a4f771e.manus.computer';
 
     // Preview email functionality
     previewBtn.addEventListener('click', function() {
