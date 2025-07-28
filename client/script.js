@@ -9,7 +9,7 @@ document.addEventListener('DOMContentLoaded', function() {
     const statusMessage = document.getElementById('statusMessage');
 
     // Backend API URL - Update this when deploying
-    const API_BASE_URL = 'https://your-backend-api.vercel.app'; // Will be updated during deployment
+    const API_BASE_URL = 'https://e5h6i7cn31x8.manus.space';
 
     // Preview email functionality
     previewBtn.addEventListener('click', function() {
